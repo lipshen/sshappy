@@ -1,6 +1,6 @@
 {
-  "name": "Change_name",
-  "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
+  "name": "sshappy",
+  "description": "sshappy",
   "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
   "env": {
      "ENCRYPT": {
